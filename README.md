@@ -46,7 +46,7 @@ For speech recognition, you may need to install:
 Run the assistant with:
 
 ```bash
-python cortex_assistant.py
+python personal_assistant.py
 ```
 
 ### Basic Commands
